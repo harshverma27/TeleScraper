@@ -3,7 +3,7 @@
 usage-
 $ pkg install -y git python
 
-$ git clone https://github.com/raghavkhanna30/Telegram-Scraper.git
+$ git clone https://github.com/harshverma27/TeleScraper
 
 $ cd Telegram-Scraper
 
